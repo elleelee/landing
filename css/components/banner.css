@@ -1,0 +1,15 @@
+.banner {
+  color: white;
+  margin: 0 auto;
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0;
+}
+
+.banner p {
+  margin-bottom: 40px;
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
